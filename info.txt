@@ -1,0 +1,5 @@
+Student-id: 2313110237
+Student Name: Suthiphoj Thamsuwan
+Major: IT
+Level: 1
+Faculty: Information Technology
